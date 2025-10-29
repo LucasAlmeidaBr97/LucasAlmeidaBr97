@@ -100,7 +100,7 @@ Me chamo Lucas Tadeu Almeida, tenho 28 anos e sou natural de São Paulo (SP). So
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasAlmeidaBr97&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasAlmeidaBr97&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&" 
   />
 
 <img 
